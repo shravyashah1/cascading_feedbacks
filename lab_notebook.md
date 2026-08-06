@@ -33,7 +33,7 @@ token = userdata.get('GitHubToken').strip()
 ```
 - What's next: Session 1.3--Practicing using Markdown features
 
-## 2025-08-06 · Session 1.3
+## 2026-08-06 · Session 1.3
 - Practiced using Markdown headings, bullet points, code block, tables, etc.
-- Didn't type python before typing in the code for the code block
+- Didn't type python tag after the backticks before typing in the code for the code block, so the first line got eaten
 - What's next: Session 1.4--Researching for the project

@@ -4,7 +4,7 @@
 - **push** — send my local commits up to GitHub so they're online.
 - **pull** — bring commits down from GitHub to my local copy.
 - **branch** — a parallel copy of the repo I can experiment on without touching main. Merges back when the experiment works.
--**cell** — an area where you can run a block of code.
--**runtime** — the Python engine that runs my code and holds my variables in memory.
--**!pip** — a tool that installs and manages Python libraries.
--**%timeit** — measures how long a line of code takes to run.
+- **cell** — an area where you can run a block of code.
+- **runtime** — the Python engine that runs my code and holds my variables in memory.
+- **!pip** — a tool that installs and manages Python libraries.
+- **%timeit** — measures how long a line of code takes to run.

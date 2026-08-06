@@ -10,9 +10,7 @@
 - Used a token to push new glossary term into the glossary using colab code
 - If you ever create a new file then you need use the following code to mount to Google Drive and push/pull something into GitHub:
 **For mounting to Google Drive**
-'''from google.colab import drive
-drive.mount('/colab/drive')
-%cd /content/drive/MyDrive/cascading_feedback'''
+'''from google.colab import drive\ndrive.mount('/colab/drive')\n%cd /content/drive/MyDrive/cascading_feedback'''
 **For pushing/pulling into GitHub**
 '''from google.colab import userdata
 token = userdata.get('GitHubToken').strip()'''

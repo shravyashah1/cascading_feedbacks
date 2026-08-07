@@ -1,3 +1,10 @@
 # cascading_feedbacks
-I’m testing whether three coupled Arctic feedback loops make the climate tip earlier than one loop alone.
-Practice branch works.
+
+**Goal:** Find out the correlation and impact of the combination of three different global feedback loops in global warming.
+
+**Three feedback loops:**
+- Ice-albedo loop
+- Permafrost-methane loop
+- Water vapor loop
+
+**What the result should look like:** The result should look like graphs that show the combination of the impacts of the three feedback loops.

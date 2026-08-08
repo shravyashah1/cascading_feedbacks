@@ -8,3 +8,6 @@
 - **runtime** — the Python engine that runs my code and holds my variables in memory.
 - **!pip** — a tool that installs and manages Python libraries.
 - **%timeit** — measures how long a line of code takes to run.
+- **feedback loop** — when an output of a process eventually feeds back into the process itself, either amplifying or reducing its effects
+- **positive feedback** — when a feedback loop results in the amplification of a process's effects
+- **arctic amplification** — the way combined feedback loops in the Arctic cause it to warm much faster than the rest of the world (recent observations suggest that it warms nearly four times as fast)

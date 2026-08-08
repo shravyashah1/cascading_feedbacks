@@ -1,17 +1,18 @@
 # Lab Notebook
 
-## **Week 1**
-| Session | What I Did Overall |
-|---------|--------------------|
-| 1.1     |GitHub + repo setup |
-| 1.2     |Colab Environment   |
-| 1.3     |Markdown practice   |
+## *Week 1*
+| Session | What I Did Overall          |
+|---------|-----------------------------|
+| 1.1     |GitHub + repo setup          |
+| 1.2     |Colab Environment            |
+| 1.3     |Markdown practice            |
+| 1.4     |Overview of climate feedback |
 
 
 ## 2026-08-03 · Session 1.1
 - Made the GitHub repo and full folder skeleton (12 files across data/, src/, results/, notebooks/)
 - Created a practice branch, added a line, merged it into main, deleted the branch. Branches feel safe
-- Nothing broke. First-commit rush is real
+- Nothing broke.
 - What's next: Session 1.2--Using Google Colab
 
 ## 2026-08-04 · Session 1.2
@@ -37,3 +38,18 @@ token = userdata.get('GitHubToken').strip()
 - Practiced using Markdown headings, bullet points, code block, tables, etc.
 - Didn't type python tag after the backticks before typing in the code for the code block, so the first line got eaten
 - What's next: Session 1.4--Researching for the project
+
+## 2026-08-08 · Session 1.4
+- Defined the project in my own words
+- Learned more about climate feedback loops in general
+- Learned about Arctic amplification
+- Colab still had the broken glossary from the 1.2 merge, so I made a backup-before-sync branch as a safety net, then reset Colab to match GitHub
+- What's next: Week 2--Scientific Python through real climate data
+
+## *Week 2*
+| Session | What I Did Overall |
+|---------|--------------------|
+| 2.1     |                    |
+| 2.2     |                    |
+| 2.3     |                    |
+| 2.4     |                    |
